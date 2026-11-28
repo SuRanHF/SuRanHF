@@ -49,8 +49,6 @@
 | **dsh-gui-turn** | 通过本地回环 HTTP 从任意进程触发 DSH Agent 轮次 | AI Agent / MCP | [查看 ↗](https://github.com/SuRanHF/dsh-gui-turn) |
 | **lumiiris-releases** | LumiIris Studio（璃瞳）正式版发行与自动更新清单 | Release / Mobile | [查看 ↗](https://github.com/SuRanHF/lumiiris-releases) |
 | **lumiiris-desktop-releases** | 璃瞳桌面端独立发行仓库（与移动端隔离） | Desktop | [查看 ↗](https://github.com/SuRanHF/lumiiris-desktop-releases) |
-| **awesome-deepseek-harness** | DeepSeek Harness (DSH) 生态插件与工具合集 | AI Agent / DSH | [查看 ↗](https://github.com/SuRanHF/awesome-deepseek-harness) |
-| **awesome-dsh-plugin** | DSH 插件精选与索引列表 | AI Agent / DSH | [查看 ↗](https://github.com/SuRanHF/awesome-dsh-plugin) |
 
 ## 更多
 
