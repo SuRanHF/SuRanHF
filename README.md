@@ -1,191 +1,86 @@
-![](assets/Bottom_up.svg)
+<img src="./assets/banner-mai.jpg" alt="SuRanHF" width="100%" />
 
-<!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/SuRanHF/SuRanHF"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/SuRanHF/SuRanHF/graphs/contributors"><img src="https://img.shields.io/github/contributors/SuRanHF/SuRanHF?color=blue"></a>
-    <a href="https://github.com/SuRanHF/SuRanHF/stargazers"><img src="https://img.shields.io/github/stars/SuRanHF/SuRanHF.svg?logo=github"></a>
-    <a href="https://github.com/SuRanHF/SuRanHF/network/members"><img src="https://img.shields.io/github/forks/SuRanHF/SuRanHF.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=SuRanHF.SuRanHF" alt="visitors"/>   
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+SuRanHF;AI+Agent+(DSH+%C2%B7+MCP)+%C2%B7+LumiIris+%E7%92%83%E7%9E%B3;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E5%87%BA%E6%9D%A5" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1200&color=1F2328&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+SuRanHF;AI+Agent+(DSH+%C2%B7+MCP)+%C2%B7+LumiIris+%E7%92%83%E7%9E%B3;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E5%87%BA%E6%9D%A5" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1200&color=1F2328&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+SuRanHF;AI+Agent+(DSH+%C2%B7+MCP)+%C2%B7+LumiIris+%E7%92%83%E7%9E%B3;%E7%94%A8%E4%BB%A3%E7%A0%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%81%9A%E5%87%BA%E6%9D%A5" alt="Typing SVG" />
+    </picture>
+  </a>
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<br />
 
+<table>
+  <tr>
+    <td width="74%" valign="top">
+      <h3>SuRanHF</h3>
+      <p>
+        <strong>AI Agent 插件 · 璃瞳 LumiIris 独立开发者</strong>
+      </p>
+      <p>
+        主要折腾两件事：给 AI Agent 写好用的本地桥梁与工具生态（DeepSeek Harness / MCP），以及打磨自己想用的跨端软件（LumiIris 璃瞳）。日常也写 Java / Android、Python、深度学习和 C/C++。
+      </p>
+      <p>
+        这里放的项目没有多余装饰，能跑起来、自己天天在用就是标准。
+      </p>
+      <p>
+        <a href="https://github.com/SuRanHF">GitHub</a> ·
+        <a href="https://github.com/SuRanHF?tab=repositories">Repositories</a> ·
+        <a href="https://github.com/SuRanHF?tab=stars">Stars</a>
+      </p>
+    </td>
+    <td width="26%" align="right" valign="top">
+      <img src="./assets/char-mai.png" width="155" alt="Sakurajima Mai" />
+    </td>
+  </tr>
+</table>
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+SuRanHF;+Welcome+to+My+Profile!;Open+source+and+coding+enthusiast;Always+learning+new+things+;Building+cool+things+with+code+;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+## 正在做
 
+- **[dsh-gui-turn](https://github.com/SuRanHF/dsh-gui-turn)** — DeepSeek Harness 桌面端的本地回环 HTTP 桥接插件。支持外部进程按轮次触发完整 Agent 执行，独立配置人设、挂载 MCP 服务与 fail-closed 工具白名单。
+- **[LumiIris Studio（璃瞳）](https://github.com/SuRanHF/lumiiris-releases)** — 桌面端与移动端架构严格隔离的独立软件发行体系与自动更新通道。
 
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+## 代表作
 
+| 项目 | 一句话 | 方向 | 入口 |
+| :--- | :--- | :--- | :--- |
+| **dsh-gui-turn** | 通过本地回环 HTTP 从任意进程触发 DSH Agent 轮次 | AI Agent / MCP | [查看 ↗](https://github.com/SuRanHF/dsh-gui-turn) |
+| **lumiiris-releases** | LumiIris Studio（璃瞳）正式版发行与自动更新清单 | Release / Mobile | [查看 ↗](https://github.com/SuRanHF/lumiiris-releases) |
+| **lumiiris-desktop-releases** | 璃瞳桌面端独立发行仓库（与移动端隔离） | Desktop | [查看 ↗](https://github.com/SuRanHF/lumiiris-desktop-releases) |
+| **awesome-deepseek-harness** | DeepSeek Harness (DSH) 生态插件与工具合集 | AI Agent / DSH | [查看 ↗](https://github.com/SuRanHF/awesome-deepseek-harness) |
+| **awesome-dsh-plugin** | DSH 插件精选与索引列表 | AI Agent / DSH | [查看 ↗](https://github.com/SuRanHF/awesome-dsh-plugin) |
 
-<!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/SuRanHF):
+## 更多
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/SuRanHF/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/SuRanHF/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/SuRanHF/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/SuRanHF/discussion/light)
--->
+<details>
+<summary><strong>技术栈与其他仓库</strong></summary>
+<br />
 
+- **AI Agent & 客户端**：JavaScript · Electron · Cordis · MCP · HTTP API · Java · Android / LSPosed
+- **机器学习 & 通用开发**：Python 3.12 · PyTorch · TensorFlow · Scikit-Learn · OpenCV · Django · PyQt · C / C++ · Bash
+- **数据 & 工程基建**：Docker · PostgreSQL · MySQL · SQLite · Git / GitHub Actions
+- **其他仓库**：[lumiiris-test-releases](https://github.com/SuRanHF/lumiiris-test-releases)（璃瞳 Beta 内测通道）· [LSPosed](https://github.com/SuRanHF/LSPosed)（Android 框架生态）
 
-<!--   my-skils -->
+</details>
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/SuRanHF/SuRanHF) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ASuRanHF&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ASuRanHF&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ASuRanHF&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/SuRanHF/SuRanHF) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
+<details>
+<summary><strong>开源贡献轨迹（自动更新）</strong></summary>
+<br />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SuRanHF/SuRanHF/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SuRanHF/SuRanHF/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/SuRanHF/SuRanHF/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<br /><br />
 
-<!--   green snake -->
-![SuRanHF's github activity graph](https://raw.githubusercontent.com/SuRanHF/SuRanHF/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![SuRanHF's github stats](https://github-readme-stats.vercel.app/api?username=SuRanHF&show_icons=true&theme=radical&include_all_commits=true) | ![SuRanHF's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuRanHF&theme=radical&layout=compact) |
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuRanHF"></img>
-
-<!-- dark snake -->
-![SuRanHF's github activity graph](https://raw.githubusercontent.com/SuRanHF/SuRanHF/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/SuRanHF/SuRanHF/blob/output/github-contribution-grid-snake.svg) -->
-
-
-<!--   skyline 
-<a href="https://skyline.github.com/SuRanHF/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/SuRanHF-->
-
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=SuRanHF" width="auto"></img>
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/SuRanHF-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SuRanHF&show-other-skills=true" width="auto"></img>
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://github.com/SuRanHF" target="blank"><img src="https://img.shields.io/badge/GitHub-SuRanHF-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuRanHF" alt="SuRanHF" /></a>
-</p>
-
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-   ```
-   
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-
-
-<!-- My Map-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
-
-![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
-
-
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/SuRanHF/count.svg">  
-
-counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=SuRanHF/SuRanHF&type=Date)](https://star-history.com/#SuRanHF/SuRanHF&Date)
-
-
-
-### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
-![](https://count.getloli.com/get/@SuRanHF.github.readme)
-</br>
-
-[MIT](LICENSE)
-
-
-</p>
+</details>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-![](assets/Bottom_down.svg)
+
+<sub>SuRanHF · Code &amp; Anime</sub>
